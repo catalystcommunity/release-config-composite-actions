@@ -1,5 +1,5 @@
 {
-  "name": "@catalystsquad/release-config-template",
+  "name": "@catalystsquad/release-config-composite-actions",
   "version": "1.0.0",
   "description": "semantic-release shareable release configuration template repository",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/catalystsquad/release-config-template.git"
+    "url": "git+https://github.com/catalystsquad/release-config-composite-actions.git"
   },
   "author": "Catalyst Squad",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/catalystsquad/release-config-template/issues"
+    "url": "https://github.com/catalystsquad/release-config-composite-actions/issues"
   },
-  "homepage": "https://github.com/catalystsquad/release-config-template#readme",
+  "homepage": "https://github.com/catalystsquad/release-config-composite-actions#readme",
   "dependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/commit-analyzer": "^9.0.2",

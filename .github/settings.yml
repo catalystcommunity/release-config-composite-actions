@@ -2,7 +2,7 @@
 repository:
   # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
   # A short description of the repository that will show up on GitHub
-  description: template repository for semantic release shareable release configurations
+  description: Semantic release release configuration for composite actions
   # A comma-separated list of topics to set on the repository
   topics: semantic-release
   # Either `true` to make the repository private, or `false` to make it public.
@@ -35,7 +35,6 @@ repository:
   # Either `true` to enable vulnerability alerts, or `false` to disable
   # vulnerability alerts.
   enable_vulnerability_alerts: true
-  is_template: true
 # Labels: define labels for Issues and Pull Requests
 labels:
   - name: bug
