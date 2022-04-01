@@ -16,7 +16,7 @@ module.exports = {
         "@semantic-release/release-notes-generator",
         "@semantic-release/changelog",
         ["@semantic-release/git", {
-            "assets": ["CHANGELOG.md", "README.md"],
+            "assets": ["CHANGELOG.md"],
             "message": "semantic-release-bot chore(release): ${nextRelease.version} \n\n${nextRelease.notes}"
         }],
         "@semantic-release/github"
