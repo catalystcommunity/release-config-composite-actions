@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/catalystsquad/release-config-composite-actions/compare/v1.0.1...v1.0.2) (2022-06-23)
+
+
+### Bug Fixes
+
+* make public via settings with proper groups ([#7](https://github.com/catalystsquad/release-config-composite-actions/issues/7)) ([85d0786](https://github.com/catalystsquad/release-config-composite-actions/commit/85d0786aaedeb420442f8fec49de317d1e172f6d))
+
 ## [1.0.1](https://github.com/catalystsquad/release-config-composite-actions/compare/v1.0.0...v1.0.1) (2022-04-01)
 
 
