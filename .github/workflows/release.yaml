@@ -24,7 +24,7 @@ jobs:
           # this makes the semantic-release git plugin push as the runner, which allows us to bypass branch protection
           token: ${{ secrets.AUTOMATION_PAT }}
       - id: semantic-release
-        uses: cycjimmy/semantic-release-action@v2
+        uses: cycjimmy/semantic-release-action@v3
         with:
           extra_plugins: |
             conventional-changelog-conventionalcommits
