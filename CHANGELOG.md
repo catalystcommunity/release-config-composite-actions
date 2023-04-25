@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/catalystsquad/release-config-composite-actions/compare/v1.0.2...v1.0.3) (2023-04-25)
+
+
+### Bug Fixes
+
+* adjust semantic version action version ([#9](https://github.com/catalystsquad/release-config-composite-actions/issues/9)) ([60fb467](https://github.com/catalystsquad/release-config-composite-actions/commit/60fb4677816430a7ca979173efd1241ae1049bf0))
+
 ## [1.0.2](https://github.com/catalystsquad/release-config-composite-actions/compare/v1.0.1...v1.0.2) (2022-06-23)
 
 
